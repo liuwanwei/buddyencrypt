@@ -1,7 +1,7 @@
 #### 在 Linux、macOS 上编译
 ```
-git clone https://github.com/lihancong/tonyenc.git
-cd tonyenc
+git clone https://github.com/liuwanwei/buddyencrypt.git
+cd buddyencrypt
 phpize
 ./configure
 make
